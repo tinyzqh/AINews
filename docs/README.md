@@ -2,4 +2,4 @@
 
 This documentation is organized as followed:
 
-- [Papers]()
+- [Papers](https://tinyzqh.github.io/AINews/Papers)
