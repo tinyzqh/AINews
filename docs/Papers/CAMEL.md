@@ -1,8 +1,4 @@
----
-sort: 1
----
-
-# CAMEL
+# CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society.
 
 ## 所解决的问题？
 
