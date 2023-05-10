@@ -128,3 +128,5 @@ If you have any incomprehension of the chinese note, you are welcome to submit i
 
 - Li G, Hammoud H A A K, Itani H, et al. **CAMEL: Communicative Agents for" Mind" Exploration of Large Scale Language Model Society**[J]. arXiv preprint arXiv:2303.17760, 2023. [**[Paper Link]**](https://ghli.org/camel.pdf). [**[Chinese Note Link]**](./docs/Papers/CAMEL.md).
 
+- **FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance** [**[Paper Link]**](https://arxiv.org/pdf/2305.05176.pdf). [**[Chinese Note Link]**](./docs/Papers/FrugalGPT.md).
+
